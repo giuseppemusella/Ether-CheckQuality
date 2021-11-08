@@ -1,3 +1,5 @@
+/*---------------------------- IMPORTO I FOGLI DI STILE PER PERMETTERE A WEBPACK DI GENERARE UN UNICO FILE BUNDLE.JS CONTENENTE TUTTO IL MATERIALE NECESSARIO ------------------------*/
+
 import '../css/style.css';
 import '../css/normalize.css';
 
