@@ -1,0 +1,5 @@
+# Dist Directory
+dist
+
+# JSON Package Lock
+package-lock.json
