@@ -3,10 +3,10 @@
 ## Link - https://etherairquality.netlify.app/
 
 ## Contenuti
-1. [Che cos'è?]
-2. [Tecnologie utilizzate]
-3. [Directories]
-4. [Contatti]
+1. Che cos'è?
+2. Tecnologie utilizzate
+3. Directories
+4. Contatti
 
 ## Che cos'è?
 Ether è un'app che permette di accedere alle informazioni sui livelli di inquinamento delle città e ti restituisce anche alcuni consigli per tutelare la tua salute.
